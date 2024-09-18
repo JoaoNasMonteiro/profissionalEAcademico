@@ -28,4 +28,4 @@ In the directory [certificadosCursosEventos](https://github.com/JoaoNasMonteiro/
 
 Additionally, the directory [projetosDeProgramacao](https://github.com/JoaoNasMonteiro/profissionalEAcademico/tree/24ea689e1ec27fd240b823d6c4e2e56040b1418d/projetosDeProgramacao) contains a range of programming projects I have authored, with a focus primarily on Python.
 
-You can contact me through the email joaonasmont@gmail.com or the number +55 (71) 98187-5659. My LinkedIn profile can be found on [@oaonasmont](linkedin.com/in/joaonasmont).
+You can contact me through the email joaonasmont@gmail.com or the number +55 (71) 98187-5659. My LinkedIn profile can be found on [@joaonasmont](linkedin.com/in/joaonasmont).
