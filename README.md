@@ -12,6 +12,8 @@ No diretório [certificadosCursosEventos](https://github.com/JoaoNasMonteiro/pro
 
 Por fim, no diretório [projetosDeProgramacao](https://github.com/JoaoNasMonteiro/profissionalEAcademico/tree/24ea689e1ec27fd240b823d6c4e2e56040b1418d/projetosDeProgramacao), estão os diversos projetos de programação que desenvolvi, com foco principal em Python.
 
+Você pode me contatar através do email joaonasmont@gmail.com, ou do número (71) 98187-5659 (que também é whatsapp). Meu LinkedIn é o linkedin.com/in/joaonasmont
+
 # EN
 
 I am João Pedro Nascimento Monteiro, a Computer Engineering student at UFBA. This repository showcases a significant portion of the projects, courses, events, and experiences I have participated in throughout my academic journey.
@@ -25,3 +27,5 @@ I am enrolled in the [Google Cybersecurity Professional Certificate](https://www
 In the directory [certificadosCursosEventos](https://github.com/JoaoNasMonteiro/profissionalEAcademico/tree/24ea689e1ec27fd240b823d6c4e2e56040b1418d/certificadosCursosEventos), you will find various certificates from courses and events I have attended. The most notable ones have dedicated subdirectories with discussions, photos, and references to the projects developed.
 
 Additionally, the directory [projetosDeProgramacao](https://github.com/JoaoNasMonteiro/profissionalEAcademico/tree/24ea689e1ec27fd240b823d6c4e2e56040b1418d/projetosDeProgramacao) contains a range of programming projects I have authored, with a focus primarily on Python.
+
+You can contact me through the email joaonasmont@gmail.com or the number +55 (71) 98187-5659
