@@ -61,4 +61,35 @@ Significa que aquela seção ainda não está pronta ou manutenção precisa ser
    Additionally, the directory [projetosDeProgramacao](https://github.com/JoaoNasMonteiro/profissionalEAcademico/tree/24ea689e1ec27fd240b823d6c4e2e56040b1418d/projetosDeProgramacao) contains a range of programming projects I have authored, with a focus primarily on Python.
    
    You can contact me through the email joaonasmont@gmail.com or the number +55 (71) 98187-5659. My LinkedIn profile can be found on [@joaonasmont](linkedin.com/in/joaonasmont).
-   
+
+
+## A little more about this repository
+
+This repository is designed to serve as both a space for my courses, my learning journeys, and my other ventures; as well as a portfolio for academic and professional purposes, to showcase my skills and capabilities.
+
+The different directories and subdirectories have self-explanatory names (always in [camelCasing](https://coodesh.com/blog/dicionario/o-que-e-camelcase/)), and each contains its own README with appropriate information.
+
+This repository is a work in progress, so wherever you see the tag below
+
+```
+
+  _    _           _              _____                _                   _   _             
+ | |  | |         | |            / ____|              | |                 | | (_)            
+ | |  | |_ __   __| | ___ _ __  | |     ___  _ __  ___| |_ _ __ _   _  ___| |_ _  ___  _ __  
+ | |  | | '_ \ / _` |/ _ \ '__| | |    / _ \| '_ \/ __| __| '__| | | |/ __| __| |/ _ \| '_ \ 
+ | |__| | | | | (_| |  __/ |    | |___| (_) | | | \__ \ |_| |  | |_| | (__| |_| | (_) | | | |
+  \____/|_| |_|\__,_|\___|_|     \_____\___/|_| |_|___/\__|_|   \__,_|\___|\__|_|\___/|_| |_|
+			   
+			   
+			   
+
+       /~~~|#|]|=\|---\__
+     |-=_____________  |\\ ,             O       O
+    I|_/,-.-.-.-.-,-.\_|='(             T/\     /\=,---.
+       ( o )( o )( o )     \            U /\   /\   `O'      
+        `-'-'-'-'-`-'
+
+
+```
+
+It means that the section is not yet complete or needs maintenance. If you have any questions, you can always contact me at joaonasmont@gmail.com ;)
