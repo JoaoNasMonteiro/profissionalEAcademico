@@ -2,6 +2,8 @@ Eventos, cursos e projetos diversos dos quais participei e que emitiram certific
 
 
 
+```
+
   _    _           _              _____                _                   _   _             
  | |  | |         | |            / ____|              | |                 | | (_)            
  | |  | |_ __   __| | ___ _ __  | |     ___  _ __  ___| |_ _ __ _   _  ___| |_ _  ___  _ __  
@@ -17,6 +19,9 @@ Eventos, cursos e projetos diversos dos quais participei e que emitiram certific
     I|_/,-.-.-.-.-,-.\_|='(             T/\     /\=,---.
        ( o )( o )( o )     \            U /\   /\   `O'      
         `-'-'-'-'-`-'
+
+
+```
 
   ***TBF - esta página ainda não foi terminada. Para informações ou dúvidas acerca do conteúdo desta ou do repositório correspondente contate joaonasmont@gmail.com***
 
