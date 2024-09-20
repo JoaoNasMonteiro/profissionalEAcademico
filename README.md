@@ -12,7 +12,7 @@
    
    Por fim, no diretório [projetosDeProgramacao](https://github.com/JoaoNasMonteiro/profissionalEAcademico/tree/24ea689e1ec27fd240b823d6c4e2e56040b1418d/projetosDeProgramacao), estão os diversos projetos de programação que desenvolvi, com foco principal em Python.
    
-   Você pode me contatar através do email joaonasmont@gmail.com. Meu LinkedIn pode ser encontrado no [@joaonasmont](linkedin.com/in/joaonasmont).
+   Você pode me contatar através do email joaonasmont@gmail.com. Meu LinkedIn pode ser encontrado no [@joaonasmont](https://linkedin.com/in/joaonasmont).
 
 ## Um pouco mais sobre este repositório
 
