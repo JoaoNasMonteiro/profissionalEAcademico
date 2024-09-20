@@ -10,7 +10,7 @@ Gosto de resolver problemas, e durante minha adolescência a geologia e a progra
 
 Agora me encontro cursando Engenharia da Computação na UFBA, e durante meu primeiro semestre me deparei com um projeto na IEEE na área de cybersegurança, que despertou meu interesse.
 
-Pensar em soluções estruturadas para problemas, criar políticas para mitigar danos e executar investigações forenses pós-brecha podem parecer muito diferentes de analisar minerais e tirar medidas em campo, ou desenvolver planos de ação para mitigar impactos ambientais da mineração, mas eu acredito que são processos parecidos vestindo roupagens distintas.
+Pensar em soluções estruturadas para problemas, criar políticas para mitigar danos e executar investigações forenses pós-brecha podem parecer muito diferentes de analisar minerais e tirar medidas em campo, ou desenvolver planos de ação para mitigar impactos ambientais da mineração, mas eu acredito que são processos muito parecidos apenas vestindo roupagens distintas.
 
 Por conta deste interesse, procurei cursos e recursos com os quais eu pudesse aprender mais sobre esta área tão fascinante. Depois de alguns meses de tutoriais no youtube e PDFs de procedência duvidosa, encontrei o [Google Cybersecurity Professional Certificate](https://www.coursera.org/professional-certificates/google-cybersecurity), na coursera, que estou ainda cursando, e pretendo terminar em meados de novembro ainda este ano.
 
