@@ -2,7 +2,7 @@
 
 ## Um pouco mais sobre mim
 
-Sou João Pedro, uma pessoa orientada a detalhes e resultados, com uma paixão por resolver problemas complexos. Tenho um interesse especial no design e aprimoramento de sistemas e processos de segurança, e valorizo enormemente a capacidade de gerar um impacto positivo no mundo, protegendo as informações de indivíduos e organizações.
+Sou João Pedro, uma pessoa orientada a detalhes e resultados, com uma paixão por resolver problemas complexos. Tenho um interesse especial no design e aprimoramento de sistemas e processos de segurança, e valorizo enormemente a capacidade de causar um impacto positivo no mundo protegendo as informações de indivíduos e organizações.
 
 Me formei técnico em geologia pelo IFBA, e durante esta jornada me descobri amante da natureza. Aprendi a enxergar os processos ocultos em objetos e acontecimentos ordinários, e como transmitir conceitos técnicos complexos em linguagem simples, através de diagramas, apresentações faladas e texto escrito. 
 
