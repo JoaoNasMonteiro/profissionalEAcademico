@@ -4,7 +4,7 @@
    
    Tenho um grande interesse na área de cibersegurança e estou me dedicando ativamente ao estudo para me tornar um profissional nessa área.
    
-   Atualmente, estou em busca de uma oportunidade de emprego de nível de entrada na área de TI, com uma preferência particular pela cybersegurança, onde possa adquirir experiência e contribuir para a organização. Meu currículo atualizado, disponível em português e inglês, pode ser encontrado no diretório [curriculoEtc](https://github.com/JoaoNasMonteiro/profissionalEAcademico/tree/478387afdee991f9622559ad5545a339229973a5/curriculoEtc).
+   Atualmente, estou em busca de uma oportunidade de emprego de nível de entrada na área de TI, com uma preferência particular pela cybersegurança, onde possa adquirir experiência e contribuir para a organização. Meu currículo atualizado, disponível em português e inglês, pode ser encontrado no diretório [curriculoEtc](https://github.com/JoaoNasMonteiro/profissionalEAcademico/tree/478387afdee991f9622559ad5545a339229973a5/curriculoEtc). Adicionalmente, mais informações sobre mim podem ser encontradas no arquivo [sobreMim.md](https://github.com/JoaoNasMonteiro/profissionalEAcademico/blob/73bcd4f621b9ecc1504eb275d2d8e96ec52ccbaf/curriculoEtc/sobreMim)
    
    Atualmente, estou cursando o [Google Cybersecurity Professional Certificate](https://www.coursera.org/professional-certificates/google-cybersecurity) na plataforma Coursera. Os projetos relacionados a este curso podem ser encontrados no diretório [googleCybersecurityCertificate](https://github.com/JoaoNasMonteiro/profissionalEAcademico/tree/90693b146dde2d833f853c0d1ea8c09ef57fa756/projetosCursos/googleCybersecurityCertificate).
    
