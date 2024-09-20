@@ -4,7 +4,7 @@ Sou João Pedro, uma pessoa orientada a detalhes e resultados, com uma paixão p
 
 Me formei técnico em geologia pelo IFBA, e durante esta jornada me descobri amante da natureza. Aprendi a enxergar os processos ocultos em objetos e acontecimentos ordinários, e como transmitir conceitos técnicos complexos em linguagem simples, através de diagramas, apresentações faladas e texto escrito. 
 
-Porém, talvez mais importantemente, aprendi a estudar, e a importância de me dedicar a realmente compreender os conceitos basilares para construir melhores interpretações geológicas sobre as diversas situações-problema.
+Porém, talvez mais importantemente, aprendi a estudar, e a importância de me dedicar a realmente compreender os conceitos fundamentais para construir melhores interpretações, seja sobre as diversas situações-problema geológicas, sobre os pequenos toy projects que eu desenvolvia ou sobre minha visão de mundo.
 
 Gosto de resolver problemas, e durante minha adolescência a geologia e a programação foram dois grandes vetores para desenvolver esta minha paixão.
 
