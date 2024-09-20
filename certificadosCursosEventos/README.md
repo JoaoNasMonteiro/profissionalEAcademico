@@ -19,10 +19,10 @@ Eventos, cursos e projetos diversos dos quais participei e que emitiram certific
     I|_/,-.-.-.-.-,-.\_|='(             T/\     /\=,---.
        ( o )( o )( o )     \            U /\   /\   `O'      
         `-'-'-'-'-`-'
-TBF - esta página ainda não foi terminada. Para informações ou dúvidas acerca do conteúdo desta ou do repositório correspondente contate joaonasmont@gmail.com
+
 
 ```
-
+***TBF - esta página ainda não foi terminada. Para informações ou dúvidas acerca do conteúdo desta ou do repositório correspondente contate joaonasmont@gmail.com***
   
 
 
