@@ -33,7 +33,7 @@ Este repositório é um trabalho em progresso, portanto onde houver a tag abaixo
 			   
 			   
 			   
-			   O
+
        /~~~|#|]|=\|---\__
      |-=_____________  |\\ ,             O       O
     I|_/,-.-.-.-.-,-.\_|='(             T/\     /\=,---.
