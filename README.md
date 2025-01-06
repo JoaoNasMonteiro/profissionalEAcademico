@@ -8,7 +8,7 @@
    
    Meu currículo atualizado, disponível em português e inglês, pode ser encontrado no diretório [curriculoEtc](https://github.com/JoaoNasMonteiro/profissionalEAcademico/tree/478387afdee991f9622559ad5545a339229973a5/curriculoEtc). Adicionalmente, mais informações sobre mim podem ser encontradas no arquivo [sobreMim.md](https://github.com/JoaoNasMonteiro/profissionalEAcademico/blob/73bcd4f621b9ecc1504eb275d2d8e96ec52ccbaf/curriculoEtc/sobreMim.md).
    
-   Atualmente, estou cursando o [Google Cybersecurity Professional Certificate](https://www.coursera.org/professional-certificates/google-cybersecurity) na plataforma Coursera. Os projetos relacionados a este curso podem ser encontrados no diretório [googleCybersecurityCertificate](https://github.com/JoaoNasMonteiro/profissionalEAcademico/tree/90693b146dde2d833f853c0d1ea8c09ef57fa756/projetosCursos/googleCybersecurityCertificate).
+   Recetemente, terminei o [Google Cybersecurity Professional Certificate](https://www.coursera.org/professional-certificates/google-cybersecurity) na plataforma Coursera. Os projetos relacionados a este curso podem ser encontrados no diretório [googleCybersecurityCertificate](https://github.com/JoaoNasMonteiro/profissionalEAcademico/tree/90693b146dde2d833f853c0d1ea8c09ef57fa756/projetosCursos/googleCybersecurityCertificate).
    
    No diretório [certificadosCursosEventos](https://github.com/JoaoNasMonteiro/profissionalEAcademico/tree/24ea689e1ec27fd240b823d6c4e2e56040b1418d/certificadosCursosEventos), você encontrará diversos certificados de cursos e eventos nos quais participei. Os mais relevantes possuem subdiretórios dedicados com discussões, fotos e referências a projetos desenvolvidos.
    
@@ -22,7 +22,7 @@ Este repositório foi pensado para ser tanto isto, um repositório para meus cur
 
 Os diferentes diretórios e subdiretórios contém nomes autoexplicativos (sempre em [camelCasing](https://coodesh.com/blog/dicionario/o-que-e-camelcase/)), e possuem seus próprios READMEs com informações apropriadas.
 
-Este repositório é um trabalho em progresso, portanto onde houver a tag abaixo
+Este repositório é um trabalho em progresso, portanto onde houver a tag:
 
 ```
 
@@ -56,7 +56,7 @@ Significa que aquela seção ainda não está pronta ou manutenção precisa ser
    
    Currently, I am seeking an entry-level position in IT, with a particular preference for cybersecurity roles, where I can gain valuable experience and contribute to the organization. My updated resume, available in both Portuguese and English, can be found in the directory [curriculoEtc](https://github.com/JoaoNasMonteiro/profissionalEAcademico/tree/478387afdee991f9622559ad5545a339229973a5/curriculoEtc).
    
-   I am enrolled in the [Google Cybersecurity Professional Certificate](https://www.coursera.org/professional-certificates/google-cybersecurity) course on Coursera. The projects associated with this course can be found in the directory [googleCybersecurityCertificate](https://github.com/JoaoNasMonteiro/profissionalEAcademico/tree/90693b146dde2d833f853c0d1ea8c09ef57fa756/projetosCursos/googleCybersecurityCertificate).
+   Recently I have finished the [Google Cybersecurity Professional Certificate](https://www.coursera.org/professional-certificates/google-cybersecurity) course on Coursera. The projects associated with this course can be found in the directory [googleCybersecurityCertificate](https://github.com/JoaoNasMonteiro/profissionalEAcademico/tree/90693b146dde2d833f853c0d1ea8c09ef57fa756/projetosCursos/googleCybersecurityCertificate).
    
    In the directory [certificadosCursosEventos](https://github.com/JoaoNasMonteiro/profissionalEAcademico/tree/24ea689e1ec27fd240b823d6c4e2e56040b1418d/certificadosCursosEventos), you will find various certificates from courses and events I have attended. The most notable ones have dedicated subdirectories with discussions, photos, and references to the projects developed.
    
