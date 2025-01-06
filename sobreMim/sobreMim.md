@@ -14,7 +14,9 @@ Agora me encontro cursando Engenharia da Computação na UFBA, e durante meu pri
 
 Pensar em soluções estruturadas para problemas, criar políticas para mitigar danos e executar investigações forenses pós-brecha podem parecer muito diferentes de analisar minerais e tirar medidas em campo, ou desenvolver planos de ação para mitigar impactos ambientais da mineração, mas eu acredito que são processos muito parecidos apenas vestindo roupagens distintas.
 
-Por conta deste interesse, procurei cursos e recursos com os quais eu pudesse aprender mais sobre esta área tão fascinante. Depois de alguns meses de tutoriais no youtube e PDFs de procedência duvidosa, encontrei o [Google Cybersecurity Professional Certificate](https://www.coursera.org/professional-certificates/google-cybersecurity), na coursera, que estou ainda cursando, e pretendo terminar em meados de novembro ainda este ano.
+Por conta deste interesse, procurei cursos e recursos com os quais eu pudesse aprender mais sobre esta área tão fascinante. Depois de alguns meses de tutoriais no youtube e PDFs de procedência duvidosa, encontrei o [Google Cybersecurity Professional Certificate](https://www.coursera.org/professional-certificates/google-cybersecurity), na coursera, que conclui ano passado, e que tanto me ensinou sobre esta fascinate área.
+
+Tive também a oportunidade de trabalhar como voluntário na COSSIC (Núcleo de Cybersegurança da STI UFBA), o que está me rendendo grandes experiências.
 
 Quanto mais aprofundo meu conhecimento sobre cybersegurança, seja por meio do curso ou por outras fontes, mais minha fascinação aumenta, o que é bom, visto que ainda tenho muito que aprender.
 
