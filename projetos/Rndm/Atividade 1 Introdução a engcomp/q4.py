@@ -1,47 +1,4 @@
 
-# # add sanitização de input!!!!
-# NI = int(input("Número inicial: "))
-# NF = int(input("Número final: "))
-
-# somaPares = 0
-# somaImpares = 0
-# qtdPrimos = 0
-
-# #determina se o numero é primo
-# def isPrimo(numero):
-# 	if numero < 2:
-# 		return False
-# 	for i in range(2, int(numero / 2) +1 ):
-# 		if numero % i == 0:
-# 			return False
-# 	return True
-
-
-# i = NI
-# while NI <= i <=  NF:
-
-# 	print("i = ", i)
-# 	#I é impar?
-# 	if i % 2 == 0:
-# 		print('é par')
-# 		somaPares = somaPares + i
-# 	else:
-# 		print('é impar')
-# 		somaImpares = somaImpares + i
-
-# 	if isPrimo(i):
-# 		print("é primo")
-# 		qtdPrimos += 1
-# 	else:
-# 		print("não é primo")
-
-# 	i += 1
-
-
-# print(somaPares, "pares")
-# print(somaImpares, "impares")
-# print(qtdPrimos, "primos")
-
 
 def obter_numero(mensagem):
     while True:
