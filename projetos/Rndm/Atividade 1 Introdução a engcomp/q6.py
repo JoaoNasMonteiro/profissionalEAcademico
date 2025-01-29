@@ -19,7 +19,7 @@ r = 1
 while i > 1:
 	r = i * r 
 	i -= 1
-	print(f"i = {i}, r = {r}")
+	#print(f"i = {i}, r = {r}")
 
 print(f"{n}! é igual a {r}")
 
