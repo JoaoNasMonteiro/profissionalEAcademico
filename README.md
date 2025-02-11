@@ -1,14 +1,14 @@
 # PT/BR
    
-   Sou João Pedro Nascimento Monteiro, estudante de Engenharia da Computação na UFBA. Este repositório contém uma parte significativa dos projetos, cursos, eventos e experiências das quais participei ao longo da minha jornada acadêmica.
+   Sou João Pedro Nascimento Monteiro, estudante de Engenharia da Computação na UFBA. Este repositório contém uma parte significativa dos projetos, cursos, eventos, enfim, experiências das quais participei ao longo da minha jornada acadêmica.
    
-   Tenho um grande interesse na área de cibersegurança e estou me dedicando ativamente ao estudo para me tornar um profissional nessa área.
+   Tenho um grande interesse na área de GRC em cibersegurança e estou me dedicando ativamente ao estudo para me tornar um profissional nessa área.
    
-   Atualmente, estou em busca de uma oportunidade de emprego de nível de entrada na área de TI, com uma preferência particular pela cybersegurança, onde possa adquirir experiência e contribuir para a organização. 
+   Atualmente, estou em busca de uma oportunidade de nível de entrada na área de TI, com uma preferência particular pela cibersegurança, onde possa adquirir experiência e contribuir para a organização. 
    
-   Informações como minhas redes, meu currículo atualizado em português e inglês, bem como um pouco mim podem ser encontradas no diretório [sobreMim](https://github.com/JoaoNasMonteiro/profissionalEAcademico/tree/main/sobreMim).
+   Informações como minhas redes, meu currículo atualizado em português e inglês, bem como um pouco sobre mim podem ser encontradas no diretório [sobreMim](https://github.com/JoaoNasMonteiro/profissionalEAcademico/tree/main/sobreMim).
    
-   Recetemente, terminei o [Google Cybersecurity Professional Certificate](https://www.coursera.org/professional-certificates/google-cybersecurity) na plataforma Coursera. Os projetos relacionados a este curso podem ser encontrados no diretório [googleCybersecurityCertificate](https://github.com/JoaoNasMonteiro/profissionalEAcademico/tree/90693b146dde2d833f853c0d1ea8c09ef57fa756/projetosCursos/googleCybersecurityCertificate).
+   Recetemente, tive a oportunidade de trabalhar como bolsista voluntário analista de segurança da informação na CoSic (Cordenação de Segurança da Informação e Comunicações), órgão interno da Superintendência de Tecnologia de Informação (STI), na UFBA. O trabalho tem sido uma grande oportunidade de aprendizado e experiência real com as operações de segurança de um SOC, mas mais do que isso, também pude atuar e observar as mais diversas áreas da segurança da informação, como GRC, auditorias internas, segurança ofensiva, segurança defensiva e inteligência de ameaças, dentre outras.
    
    No diretório [certificadosCursosEventos](https://github.com/JoaoNasMonteiro/profissionalEAcademico/tree/24ea689e1ec27fd240b823d6c4e2e56040b1418d/certificadosCursosEventos), você encontrará diversos certificados de cursos e eventos nos quais participei. Os mais relevantes possuem subdiretórios dedicados com discussões, fotos e referências a projetos desenvolvidos.
    
