@@ -20,26 +20,36 @@ Tive também a oportunidade de trabalhar como voluntário na COSSIC (Núcleo de 
 
 Quanto mais aprofundo meu conhecimento sobre cybersegurança, seja por meio do curso ou por outras fontes, mais minha fascinação aumenta, o que é bom, visto que ainda tenho muito que aprender.
 
+Recetemente tive a oportunidade de começar a trabalhar como analista de segurança da innformação voluntário na COordenação de Segurança da informação e comunicações (CoSic), órgão interno da Supertintendência de Tecnologia da Informação (STI) da UFBA, que gerencia a segurança da informação, incluindo a comunicação e avisos de serviço público sobre a segurança da unidade. Uma experência incrível onde pude conhecer pessoas maravilhosas e de aprender muito sobre as operações normais de um centro de segurança da informação, bem como trabalhar em e observar diversos projetos abrangendo as mais diversas áreas da segurança, como GRC, segurança ofensiva, segurança defensiva, comunicação de segurança, inteligêcnia de ameaças, dentre outras.
+
+Em breve espero estar apto a desenvolver meu primeiro projeto, estou ansioso para o futuro.
+
 Estou ativamente buscando empregos da nível de entrada, especialmente estágios ou trainees, na TI em geral, porém com mais atenção para a cybersegurança, e me sinto muito otimista com a continuação dessa jornada de aprendizado em minha vida.
 
 # EN
 
 ## A little more about me
 
-I am João Pedro, a detail-oriented and results-driven individual with a passion for solving complex problems. I have a special interest in the design and enhancement of security systems and processes, and I greatly value the ability to generate a positive impact on the world by protecting the information of individuals and organizations.
+I am João Pedro, a detail- and results-oriented person with a passion for solving complex problems. I have a special interest in the design and enhancement of security systems and processes, and I greatly value the ability to make a positive impact in the world by protecting the information of individuals and organizations.
 
-I graduated as a geology technician from IFBA, and during this journey, I discovered my love for nature. I learned to see the hidden processes in ordinary objects and events, and how to convey complex technical concepts in simple language, through diagrams, presentations, and written text.
+I graduated as a geology technician from IFBA, and during this journey, I discovered my love for nature. I learned to see the hidden processes in ordinary objects and events, and how to convey complex technical concepts in simple language through diagrams, spoken presentations, and written text.
 
-However, perhaps more importantly, I learned how to study and the significance of dedicating myself to truly understanding fundamental concepts in order to build better interpretations whether regarding various geological problem situations, the small toy projects I developed, or my worldview.
+However, perhaps more importantly, I learned how to study and the importance of dedicating myself to truly understanding the fundamental concepts to build better interpretations—whether it be about various geological problem situations, the small toy projects I used to develop, or my worldview.
 
-I enjoy solving problems, and during my adolescence geology and programming were two major pathways that helped me develop this passion.
+I enjoy solving problems, and during my adolescence, geology and programming were two major avenues for cultivating this passion of mine.
 
-I am currently pursuing a degree in Computer Engineering at UFBA, and during my first semester, I encountered a project with IEEE in the field of cybersecurity that piqued my interest.
+I am now studying Computer Engineering at UFBA, and during my first semester, I came across an IEEE project in the field of cybersecurity that sparked my interest.
 
-Thinking about structured solutions for problems, creating policies to mitigate damage, and conducting forensic investigations post-breach may seem very different from analyzing minerals and taking measurements in the field, or developing action plans to mitigate the environmental impacts of mining, but I believe they are very similar processes wearing different guises.
+Thinking about structured solutions for problems, creating policies to mitigate damage, and conducting post-breach forensic investigations might seem very different from analyzing minerals and taking field measurements or developing action plans to mitigate the environmental impacts of mining, but I believe they are very similar processes—just dressed in different guises.
 
-Because of this interest, I sought courses and resources through which I could learn more about this fascinating field. After several months of YouTube tutorials and dubious PDF sources, I found the Google Cybersecurity Professional Certificate on Coursera, which I am still pursuing and intend to complete by mid-November this year.
+Because of this interest, I sought out courses and resources through which I could learn more about this fascinating field. After a few months of YouTube tutorials and PDFs of dubious origin, I found the Google Cybersecurity Professional Certificate on Coursera, which I completed last year, and which taught me so much about this captivating area.
 
-The more I deepen my knowledge of cybersecurity, whether through the course or other sources, the more my fascination grows, which is beneficial since I still have much to learn.
+I also had the opportunity to work as a volunteer at COSSIC (Cybersecurity Nucleus of STI UFBA), which has been providing me with invaluable experiences.
 
-I am actively seeking entry-level jobs, especially internships or traineeships, in IT in general, but with a stronger focus on cybersecurity, and I feel very optimistic about continuing this learning journey in my life.
+The deeper I delve into my knowledge of cybersecurity, whether through the course or other sources, the more my fascination grows—which is great, considering I still have much to learn.
+
+Recently, I had the opportunity to begin working as a volunteer Information Security Analyst at the Coordination of Information Security and Communications (CoSic), an internal body of the Superintendency of Information Technology (STI) at UFBA, which manages information security, including communication and public service security alerts for the unit. It has been an incredible experience where I got to meet wonderful people and learn a great deal about the day-to-day operations of an information security center, as well as work on and observe various projects covering a wide range of security areas, such as GRC, offensive security, defensive security, security communication, threat intelligence, among others.
+
+Soon, I hope to be ready to develop my first project—I am excited for the future.
+
+I am actively seeking entry-level positions, especially internships or traineeships in IT in general, with a particular focus on cybersecurity, and I feel very optimistic about continuing this journey of learning in my life.
