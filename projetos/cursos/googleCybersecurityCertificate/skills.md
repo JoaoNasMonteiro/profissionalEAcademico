@@ -8,6 +8,7 @@
 - Noções de redes de computadores
 - Noções de network, OS e cloud hardening
 - Uso de Bash e Linux
+- Execução de gestão de ativos
 
 ## Soft Skills
 - Curiosidade e busca constante por novos conhecimentos

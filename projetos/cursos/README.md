@@ -1,3 +1,8 @@
+# PT-BR
+Estes são alguns dos cursos os quais participei durante minha vida.  Cada um vem com o certificado em questão, eventuais projetos executados durante o curso, e as habilidades que desenvolvi durante este.
+
+
+
 ```
 
   _    _           _              _____                _                   _   _             
