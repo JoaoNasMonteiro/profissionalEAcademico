@@ -6,13 +6,13 @@
    
    Atualmente, estou em busca de uma oportunidade de nível de entrada na área de TI, com uma preferência particular pela cibersegurança, onde possa adquirir experiência e contribuir para a organização. 
    
-   Informações como minhas redes, meu currículo atualizado em português e inglês, bem como um pouco sobre mim podem ser encontradas no diretório [sobreMim](https://github.com/JoaoNasMonteiro/profissionalEAcademico/tree/main/sobreMim).
+   Informações como minhas redes, meu currículo atualizado em português e inglês, bem como um pouco sobre mim podem ser encontradas no diretório sobreMim
    
    Recetemente, tive a oportunidade de trabalhar como bolsista voluntário analista de segurança da informação na CoSic (Cordenação de Segurança da Informação e Comunicações), órgão interno da Superintendência de Tecnologia de Informação (STI), na UFBA. O trabalho tem sido uma grande oportunidade de aprendizado e experiência real com as operações de segurança de um SOC, mas mais do que isso, também pude atuar e observar as mais diversas áreas da segurança da informação, como GRC, auditorias internas, segurança ofensiva, segurança defensiva e inteligência de ameaças, dentre outras.
    
-   No diretório [certificadosCursosEventos](https://github.com/JoaoNasMonteiro/profissionalEAcademico/tree/24ea689e1ec27fd240b823d6c4e2e56040b1418d/certificadosCursosEventos), você encontrará diversos certificados de cursos e eventos nos quais participei. Os mais relevantes possuem subdiretórios dedicados com discussões, fotos e referências a projetos desenvolvidos.
+   No diretório projetos, você encontrará vários dos projetos que desenvolvi durante meu amprendizado, incluindo o subrepositório /projetos/cursos, que específicamente contém os projetos realizados em cursos que realizei..
    
-   Por fim, no diretório [projetosDeProgramacao](https://github.com/JoaoNasMonteiro/profissionalEAcademico/tree/24ea689e1ec27fd240b823d6c4e2e56040b1418d/projetosDeProgramacao), estão os diversos projetos de programação que desenvolvi, com foco principal em Python.
+   Por fim, no subdiretório /projetos/projetosDeProgramação, estão os diversos projetos de programação que desenvolvi, com foco principal em Python e C/C#.
    
    Você pode me contatar através do email joaonasmont@gmail.com. Meu LinkedIn pode ser encontrado no [@joaonasmont](https://linkedin.com/in/joaonasmont).
 
